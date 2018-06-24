@@ -11,8 +11,11 @@ Using symmetric encryption to make the connection secure.
 ***Things used:***
 
 1.Sockets for connection between clients and host.
+
 2.Multithreading for handling of multiple clients at host side.
+
 3.DIFFIE-HELLMAN key exchange algorithm for secure and encrypted connection.
+
 4.AES encryption for authentication,communication.
  
 links:
