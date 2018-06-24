@@ -21,12 +21,11 @@ Using symmetric encryption to make the connection secure.
 links:
 
 https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
+
 https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
 
 To run this :
 
 Default port is set for host as 6002
-
 Since the user on connection with host will go directly to the home directory of host, so change that to your respective 
-
 directories.
